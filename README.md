@@ -1,4 +1,7 @@
-### Hi there 👋 i''m Anurag Biswal
+<h2>Hi there 👋 i'm Anurag Biswal</h2>
+<a href="https://www.instagram.com/mu_anurag"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
+<a href="mailto:anu28rag@gmail.com?subject=Hello%20Anurag,%20From%20Github"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
+
 
 <!--
 **Anurag-Biswal/Anurag-Biswal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
